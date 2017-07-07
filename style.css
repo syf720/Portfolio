@@ -10,6 +10,6 @@ p{
   font-family:Verdana;
   }
 img{
-  border-style:10px;
-  border-color:transparent;
+  border-width: 10px;
+  border-color: transparent;
 }
