@@ -9,4 +9,7 @@ h2{
 p{
   font-family:Verdana;
   }
-  
+img{
+  border-style:10px;
+  border-color:transparent;
+}
